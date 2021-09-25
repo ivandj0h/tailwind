@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Learn tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivandi1980/tailwind.git"
+  },
+  "author": "Ivandi Djoh Gah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivandi1980/tailwind/issues"
+  },
+  "homepage": "https://github.com/ivandi1980/tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.15"
+  }
+}
